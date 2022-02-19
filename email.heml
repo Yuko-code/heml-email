@@ -1,0 +1,60 @@
+<heml>
+<head>
+<subject>First Email Rox!</subject>
+<preview>Learn about al the cool things you can do with emails today!</preview>
+<style>
+ body{
+     background:#eee;
+ }
+ container{
+     background: white;
+ }
+ hr{
+     border-color: #ddd;
+ }
+ button{
+     background: #333;
+     padding: 10px 20px;
+ }
+ container{
+     max-width: 700px;
+     margin: 10px auto;
+     padding: 10px 20px;
+ }
+ button{
+     margin: 10px 0;
+ }
+ .heading{
+     color:blue;
+ }
+</style>
+</head>
+<body>
+<container>
+<marquee>
+<h1 class="heading">Helloe world</h1>
+<p>This is my first heml!</p>
+</marquee>
+</container>
+<container>
+<hr>
+<row>
+<column>
+<h2>Make games<h2>
+<p>Make dynamic duo, camiah have made some awesome games in email.</p>
+<button href="https:example.com">Click me!</button>
+</column>
+<column>
+<h2>Make games<h2>
+<p>Make dynamic duo, camiah have made some awesome games in email.</p>
+<button href="https:example.com">Click me!</button>
+</column>
+<column>
+<h2>Make games<h2>
+<p>Make dynamic duo, camiah have made some awesome games in email.</p>
+<button href="https:example.com" >Click me!</button>
+</column>
+</row>
+</container>
+</body>
+</heml>
